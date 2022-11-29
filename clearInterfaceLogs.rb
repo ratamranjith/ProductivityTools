@@ -2,7 +2,7 @@ logsPath = ['C:\log1.log',
 				  'C:\log2.txt',
 				  'C:\log3.json',
 				  'C:\log1.log',
-				  'C:\log1.log',]
+				  'C:\log1.log']
 
 def clear_Logs(logsPath, adbSupport = true)
 	begin
